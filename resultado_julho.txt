@@ -1,0 +1,58 @@
+Carregando dataset...
+===============================================
+DESAFIO SEMANTIX
+RESPOSTAS:
+===============================================
+===============================================
+Questao 1: Numero de hosts unicos.
+
+Existem 81969 hosts unicos no dataset
+===============================================
+Questao 2: O total de erros 404.
+
+Existem 10804 urls com codigo de retorno HTTP 404 no dataset
+===============================================
+Questao 3: As 5 URLs que mais causaram erro 404.
+
+URL: /pub/winvn/readme.txt - ERROS: 667
+URL: /pub/winvn/release.txt - ERROS: 547
+URL: /history/apollo/apollo-13.html - ERROS: 286
+URL: /history/apollo/a-001/a-001-patch-small.gif - ERROS: 230
+URL: /shuttle/resources/orbiters/atlantis.gif - ERROS: 230
+===============================================
+Questao 4: Quantidade de erros 404 por dia.
+
+DATA: 01/Jul/1995 - ERROS: 314
+DATA: 02/Jul/1995 - ERROS: 291
+DATA: 03/Jul/1995 - ERROS: 471
+DATA: 04/Jul/1995 - ERROS: 358
+DATA: 05/Jul/1995 - ERROS: 497
+DATA: 06/Jul/1995 - ERROS: 639
+DATA: 07/Jul/1995 - ERROS: 566
+DATA: 08/Jul/1995 - ERROS: 298
+DATA: 09/Jul/1995 - ERROS: 347
+DATA: 10/Jul/1995 - ERROS: 398
+DATA: 11/Jul/1995 - ERROS: 471
+DATA: 12/Jul/1995 - ERROS: 470
+DATA: 13/Jul/1995 - ERROS: 524
+DATA: 14/Jul/1995 - ERROS: 412
+DATA: 15/Jul/1995 - ERROS: 254
+DATA: 16/Jul/1995 - ERROS: 257
+DATA: 17/Jul/1995 - ERROS: 403
+DATA: 18/Jul/1995 - ERROS: 465
+DATA: 19/Jul/1995 - ERROS: 639
+DATA: 20/Jul/1995 - ERROS: 419
+DATA: 21/Jul/1995 - ERROS: 334
+DATA: 22/Jul/1995 - ERROS: 189
+DATA: 23/Jul/1995 - ERROS: 233
+DATA: 24/Jul/1995 - ERROS: 328
+DATA: 25/Jul/1995 - ERROS: 461
+DATA: 26/Jul/1995 - ERROS: 336
+DATA: 27/Jul/1995 - ERROS: 336
+DATA: 28/Jul/1995 - ERROS: 94
+===============================================
+Questao 5: O total de bytes retornados.
+
+O total de bytes retornados foi: 38691486415b
+===============================================
+FIM

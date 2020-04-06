@@ -1,0 +1,60 @@
+Carregando dataset...
+===============================================
+DESAFIO SEMANTIX
+RESPOSTAS:
+===============================================
+===============================================
+Questao 1: Numero de hosts unicos.
+
+Existem 75051 hosts unicos no dataset
+===============================================
+Questao 2: O total de erros 404.
+
+Existem 10044 urls com codigo de retorno HTTP 404 no dataset
+===============================================
+Questao 3: As 5 URLs que mais causaram erro 404.
+
+URL: /pub/winvn/readme.txt - ERROS: 1337
+URL: /pub/winvn/release.txt - ERROS: 1185
+URL: /shuttle/missions/STS-69/mission-STS-69.html - ERROS: 682
+URL: /images/nasa-logo.gif - ERROS: 319
+URL: /shuttle/missions/sts-68/ksc-upclose.gif - ERROS: 251
+===============================================
+Questao 4: Quantidade de erros 404 por dia.
+
+DATA: 01/Aug/1995 - ERROS: 243
+DATA: 03/Aug/1995 - ERROS: 304
+DATA: 04/Aug/1995 - ERROS: 346
+DATA: 05/Aug/1995 - ERROS: 235
+DATA: 06/Aug/1995 - ERROS: 371
+DATA: 07/Aug/1995 - ERROS: 537
+DATA: 08/Aug/1995 - ERROS: 390
+DATA: 09/Aug/1995 - ERROS: 279
+DATA: 10/Aug/1995 - ERROS: 315
+DATA: 11/Aug/1995 - ERROS: 263
+DATA: 12/Aug/1995 - ERROS: 196
+DATA: 13/Aug/1995 - ERROS: 216
+DATA: 14/Aug/1995 - ERROS: 287
+DATA: 15/Aug/1995 - ERROS: 327
+DATA: 16/Aug/1995 - ERROS: 258
+DATA: 17/Aug/1995 - ERROS: 270
+DATA: 18/Aug/1995 - ERROS: 256
+DATA: 19/Aug/1995 - ERROS: 209
+DATA: 20/Aug/1995 - ERROS: 311
+DATA: 21/Aug/1995 - ERROS: 305
+DATA: 22/Aug/1995 - ERROS: 288
+DATA: 23/Aug/1995 - ERROS: 344
+DATA: 24/Aug/1995 - ERROS: 420
+DATA: 25/Aug/1995 - ERROS: 414
+DATA: 26/Aug/1995 - ERROS: 366
+DATA: 27/Aug/1995 - ERROS: 370
+DATA: 28/Aug/1995 - ERROS: 410
+DATA: 29/Aug/1995 - ERROS: 420
+DATA: 30/Aug/1995 - ERROS: 571
+DATA: 31/Aug/1995 - ERROS: 523
+===============================================
+Questao 5: O total de bytes retornados.
+
+O total de bytes retornados foi: 26825210795b
+===============================================
+FIM
